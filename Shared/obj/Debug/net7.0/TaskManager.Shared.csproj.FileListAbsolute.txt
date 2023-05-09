@@ -1,0 +1,12 @@
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\bin\Debug\net7.0\TaskManager.Shared.deps.json
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\bin\Debug\net7.0\TaskManager.Shared.dll
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\bin\Debug\net7.0\TaskManager.Shared.pdb
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.csproj.AssemblyReference.cache
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.AssemblyInfoInputs.cache
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.AssemblyInfo.cs
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.dll
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\refint\TaskManager.Shared.dll
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.pdb
+D:\Projects\VisualStudioProjects\ASP_Portfolio\TaskManager\TaskManager\Shared\obj\Debug\net7.0\ref\TaskManager.Shared.dll
